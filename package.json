@@ -1,0 +1,19 @@
+{
+  "name": "reduce-array-unique",
+  "version": "0.1.0",
+  "description": "reduce-array-unique, 函数式编程下的数组去重",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon --debug --harmony-async-await --allow-natives-syntax  app.js"
+  },
+  "keywords": ["reduce", "array", "unique"],
+  "author": "ly",
+  "engines": {
+    "node": ">=6.0.0",
+    "npm": "^3.0.0"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
